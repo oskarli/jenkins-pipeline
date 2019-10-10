@@ -1,0 +1,7 @@
+jenkins-pipeline.iml
+.idea
+jobs/*/builds/*
+nextBuildNumber
+lastSuccessful
+lastStable
+jobs/*/workspace
